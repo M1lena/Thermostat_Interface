@@ -14,9 +14,9 @@ This is a pair-programming project with [Andrea](https://github.com/armi1189), b
 
 --------------
 
-This thermostat's web interface allows users to increase and decrease the temperaure. The thermostat has a power saving mode which is turned on by default. If Power Saving mode is turned on, the maximum temperature is 25 degrees; if this mode is turned off, the maximum temperature is 32 degrees.
+This thermostat's web interface allows users to increase and decrease the temperaure. The thermostat has a Power Saving mode that is turned on by default. When the Power Saving mode is turned on, the maximum temperature that can be setis 25 degrees; if this mode is turned off, the maximum temperature is 32 degrees. The minimum temperature, regardless of Power Saving mode, is 10 degrees.
 
-The web-interface is color-coded based on the current temperature.
+The web-interface is color-coded based on the set temperature.
 
 The interface uses the [Open Weather Map API](http://openweathermap.org/api) to display the current London temperature.
 
