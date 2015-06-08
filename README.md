@@ -18,6 +18,8 @@ This thermostat's web interface allows users to increase and decrease the temper
 
 The web-interface is color-coded based on the current temperature.
 
+The interface uses the [Open Weather Map API](http://openweathermap.org/api) to display current London temperature.
+
 --------------
 
 To "use" this thermostat: clone this repo locally and open home.html in your browser. Enjoy!
