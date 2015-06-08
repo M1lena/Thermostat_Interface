@@ -10,7 +10,7 @@ This project was coded during the first week of learning JavaScript and JQuery. 
 
 This is a pair-programming project with [Andrea](https://github.com/armi1189), built using JavaScript, JQuery, and HTML, and tested with Jasmine.
 
-[![Code Climate](https://codeclimate.com/repos/5575af88695680049100fe92/badges/388a7a097a4b3f7dacad/gpa.svg)](https://codeclimate.com/repos/5575af88695680049100fe92/feed)  [![Test Coverage](https://codeclimate.com/repos/5575af88695680049100fe92/badges/388a7a097a4b3f7dacad/coverage.svg)](https://codeclimate.com/repos/5575af88695680049100fe92/coverage)
+[![Code Climate](https://codeclimate.com/repos/5575af88695680049100fe92/badges/388a7a097a4b3f7dacad/gpa.svg)](https://codeclimate.com/repos/5575af88695680049100fe92/feed)
 
 --------------
 
